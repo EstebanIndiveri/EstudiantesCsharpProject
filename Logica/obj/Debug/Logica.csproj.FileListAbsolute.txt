@@ -1,0 +1,12 @@
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\Logica.dll
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\Logica.pdb
+F:\Proyectos c#\Estudiantes\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\Proyectos c#\Estudiantes\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\Proyectos c#\Estudiantes\Logica\obj\Debug\Logica.dll
+F:\Proyectos c#\Estudiantes\Logica\obj\Debug\Logica.pdb
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\linq2db.dll
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\linq2db.pdb
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\linq2db.xml
+F:\Proyectos c#\Estudiantes\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\Data.dll
+F:\Proyectos c#\Estudiantes\Logica\bin\Debug\Data.pdb
